@@ -166,8 +166,8 @@ struct CESIUM3DTILES_API ClassProperty final
   bool required = false;
 
   /**
-   * @brief A `noData` value represents missing data â€” also known as a sentinel
-   * value â€” wherever it appears. `BOOLEAN` properties may not specify `noData`
+   * @brief A `noData` value represents missing data ¡ª also known as a sentinel
+   * value ¡ª wherever it appears. `BOOLEAN` properties may not specify `noData`
    * values. This is given as the plain property value, without the transforms
    * from the `normalized`, `offset`, and `scale` properties. Must not be
    * defined if `required` is true.
